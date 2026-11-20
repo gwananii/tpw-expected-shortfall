@@ -1,0 +1,19 @@
+# Python packages for the replication package of
+# "Threshold-Averaged Expected Shortfall Under Weak Identification".
+# Reported run: Python 3.13. Install with:  pip install -r requirements.txt
+#
+# numpy, scipy and pandas are pinned to the versions of the reported run.
+# For the other packages, software_versions.txt gives the versions of the reported run;
+# any recent version works.
+numpy==2.4.6
+scipy==1.16.3
+pandas==2.2.3
+matplotlib
+joblib
+yfinance
+rdata
+ipython
+
+# R (optional, for the external benchmarks): R 4.6.1 with threshr 1.0.8, eva 0.2.7, mev 2.2
+# (revdbayes 1.5.7 and rust 1.4.4 are installed with threshr). Install with:
+#   Rscript -e 'install.packages(c("threshr", "eva", "mev"))'
