@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the replication package."
+title: "Threshold-Averaged Expected Shortfall Under Weak Identification: replication package"
+type: software
+version: "1.0.0"
+repository-code: "https://github.com/gwananii/tpw-expected-shortfall"
+authors:
+  - family-names: Gwanani
+    given-names: Isaac
+    affiliation: "Faculty of Mathematics and Computational Science, University of Zimbabwe, Harare, Zimbabwe"
+  - family-names: Dhliwayo
+    given-names: Lawrence
+    affiliation: "Faculty of Mathematics and Computational Science, University of Zimbabwe, Harare, Zimbabwe"
+  - family-names: Nadarajah
+    given-names: Saralees
+    affiliation: "Department of Mathematics, University of Manchester, Manchester, UK"
+  - family-names: Makurumidze
+    given-names: Shepard
+    affiliation: "Faculty of Business Management Sciences and Economics, University of Zimbabwe, Harare, Zimbabwe"
+keywords:
+  - expected shortfall
+  - peaks over threshold
+  - generalized Pareto distribution
+  - threshold averaging
+  - weak identification
+  - insurance losses
+preferred-citation:
+  type: article
+  title: "Threshold-Averaged Expected Shortfall Under Weak Identification"
+  journal: "Risks"
+  status: submitted
+  authors:
+    - family-names: Gwanani
+      given-names: Isaac
+    - family-names: Dhliwayo
+      given-names: Lawrence
+    - family-names: Nadarajah
+      given-names: Saralees
+    - family-names: Makurumidze
+      given-names: Shepard
